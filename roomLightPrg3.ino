@@ -6,10 +6,10 @@
 
 #define LED BUILTIN_LED
 
-char auth[] = "jwEgv4MqX-Y5nUEbMFFM8PJT5_dZoq6n";
+char auth[] = "sfjhdjkhdjkhdjkhd";
 
-char ssid[] = "homenetwork";
-char pass[] = "4085075811";
+char ssid[] = "wifi";
+char pass[] = "password";
 
 String lastMsg = "";
 int state = 0;
